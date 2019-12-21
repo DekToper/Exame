@@ -1,0 +1,17 @@
+C:\Users\Діма\source\repos\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe.config
+C:\Users\Діма\source\repos\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe
+C:\Users\Діма\source\repos\WpfApp8\WpfApp8\bin\Debug\WpfApp8.pdb
+C:\Users\Діма\source\repos\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csprojAssemblyReference.cache
+C:\Users\Діма\source\repos\WpfApp8\WpfApp8\obj\Debug\MainWindow.g.cs
+C:\Users\Діма\source\repos\WpfApp8\WpfApp8\obj\Debug\TestList.g.cs
+C:\Users\Діма\source\repos\WpfApp8\WpfApp8\obj\Debug\App.g.cs
+C:\Users\Діма\source\repos\WpfApp8\WpfApp8\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Діма\source\repos\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.cache
+C:\Users\Діма\source\repos\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.lref
+C:\Users\Діма\source\repos\WpfApp8\WpfApp8\obj\Debug\MainWindow.baml
+C:\Users\Діма\source\repos\WpfApp8\WpfApp8\obj\Debug\TestList.baml
+C:\Users\Діма\source\repos\WpfApp8\WpfApp8\obj\Debug\WpfApp8.g.resources
+C:\Users\Діма\source\repos\WpfApp8\WpfApp8\obj\Debug\WpfApp8.Properties.Resources.resources
+C:\Users\Діма\source\repos\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.GenerateResource.cache
+C:\Users\Діма\source\repos\WpfApp8\WpfApp8\obj\Debug\WpfApp8.exe
+C:\Users\Діма\source\repos\WpfApp8\WpfApp8\obj\Debug\WpfApp8.pdb
